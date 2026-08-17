@@ -90,11 +90,11 @@ export default function Footer() {
               <li><a href="mailto:contato@dtechsolutions.com.br">contato@dtechsolution.com.br</a></li>
               <li>
                 <a 
-                  href="https://api.whatsapp.com/send/?phone=%2B5521989868145&text&type=phone_number&app_absent=0"
+                  href="https://api.whatsapp.com/send/?phone=%2B5540028922&text&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                   (21) 98986-8145
+                   4002-8922
                 </a>
               </li>
               <li>
